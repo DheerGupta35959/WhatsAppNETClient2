@@ -7,9 +7,9 @@
         Using dlgOpen As New OpenFileDialog
 
             If fileImageOnly Then
-                dlgOpen.Filter = "File gambar (*.bmp, *.jpg, *.jpeg, *.png)|*.bmp;*.jpg;*.jpeg;*.png"
+                dlgOpen.Filter = "File picture (*.bmp, *.jpg, *.jpeg, *.png)|*.bmp;*.jpg;*.jpeg;*.png"
             Else
-                dlgOpen.Filter = "File dokumen (*.*)|*.*"
+                dlgOpen.Filter = "File document (*.*)|*.*"
             End If
 
             dlgOpen.Title = title
