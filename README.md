@@ -1,6 +1,6 @@
 # WhatsApp Client Library for .NET Developer
 
-WhatsApp NET Client adalah library gratis untuk .NET Developer yang digunakan untuk mengembangkan aplikasi WhatsApp klien berbasis desktop. Library ini dikembangkan di atas teknologi .NET dengan menggunakan bahasa pemrograman C#, sehingga bisa juga digunakan untuk semua bahasa pemrograman .NET selain C# seperti VB.NET, F#, C++ dan bahasa .NET lainnya.
+WhatsApp NET Client is a free library for .NET Developers used to develop desktop-based WhatsApp client applications. This library was developed on top of .NET technology using the C# programming language, so it can also be used for all .NET programming languages ​​other than C# such as VB.NET, F#, C++ and other .NET languages.
 
 Dalam pengembangannya WhatsApp NET Client menggunakan [Baileys - WhatsApp Web API ](https://github.com/adiwajshing/Baileys/) sebagai engine/library untuk berkomunikasi secara langsung dengan WhatsApp server dengan menggunakan websocket.
 
